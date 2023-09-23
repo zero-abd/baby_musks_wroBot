@@ -36,6 +36,6 @@ The Jetson Nano and Arduino Uno work in tandem to enable the self-running car to
 
 ## Wiring Diagram
 
-
+![image](https://github.com/zero-abd/baby_musks_wroBot/assets/48104263/29023387-f17b-4c62-b330-fb7910b5bb4a)
 
 For any further inquiries, please feel free to reach out.
