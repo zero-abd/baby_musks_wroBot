@@ -6,7 +6,7 @@ This code serves as the central control system for managing obstacles and making
 
 ### How It Works
 
-1. **Camera Setup**: The code initializes and configures a camera on the vehicle to capture images of the environment.
+1. **Camera Setup**: The code initializes and configures a camera on the vehicle to capture images of the environment. The vehicle's velocity has been deliberately kept low to ensure better image processing and accuracy in obstacle detection.
 
 2. **Image Processing**: It analyzes the images from the camera to identify critical elements such as obstacles, traffic signals, and road features by examining their colors and patterns.
 
