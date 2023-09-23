@@ -14,11 +14,9 @@ This code serves as the central control system for managing obstacles and making
 
 4. **Sending Commands**: The code translates these decision commands into motor and steering control instructions, thus dictating the vehicle's speed and direction to navigate obstacles effectively.
 
-5. **Debugging and Monitoring**: The code provides a user-friendly interface for visualizing its decision-making process, making it easier to debug and verify the vehicle's navigation choices.
+5. **Debugging and Monitoring**: The code provides a user-friendly interface for visualizing its decision-making process, making it easier to debug and verify the vehicle's navigation choices. This web-based monitoring is active during the debugging phase. It establishes a web-based monitoring interface that enables users to track the vehicle's decision-making process through a web page, facilitating testing and ensuring the vehicle operates correctly.
 
 6. **Real-Time Processing**: The code continuously processes incoming images and makes real-time decisions, emulating the way a human driver continually assesses their surroundings and adapts to changing conditions.
-
-7. **Web Monitoring**: It establishes a web-based monitoring interface that enables users to track the vehicle's decision-making process through a web page, facilitating testing and ensuring the vehicle operates correctly.
 
 In essence, this code functions as the "brain" and "eyes" of the vehicle, enabling it to perceive its surroundings, make informed navigation decisions, and execute those decisions with precision.
 
@@ -131,7 +129,6 @@ If the script is run as the main program:
     Run the Flask app on host '0.0.0.0' and port 5000
 ```
 
-
 The flowchart representing the logic and workflow of the code can be found below:
 
-![image](https://github.com/zero-abd/baby_musks_wroBot/assets/48104263/fc672cc6-d66e-45d6-82f6-31062deab6df)
+![Flowchart](https://github.com/zero-abd/baby_musks_wroBot/assets/48104263/fc672cc6-d66e-45d6-82f6-31062deab6df)
